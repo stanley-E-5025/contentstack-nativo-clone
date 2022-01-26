@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/contentstack-nativo-clone/static/css/main.d566aad5.css",
-    "main.js": "/contentstack-nativo-clone/static/js/main.58b4e48f.js",
+    "main.js": "/contentstack-nativo-clone/static/js/main.38029cf8.js",
     "static/js/787.fa2e8297.chunk.js": "/contentstack-nativo-clone/static/js/787.fa2e8297.chunk.js",
     "static/media/logo.svg": "/contentstack-nativo-clone/static/media/logo.3e34577f57d4893cd777e0ed5e934e27.svg",
     "index.html": "/contentstack-nativo-clone/index.html",
     "static/media/icon.svg": "/contentstack-nativo-clone/static/media/icon.e7b716c38e07aedc1d0987f2420434b5.svg",
     "main.d566aad5.css.map": "/contentstack-nativo-clone/static/css/main.d566aad5.css.map",
-    "main.58b4e48f.js.map": "/contentstack-nativo-clone/static/js/main.58b4e48f.js.map",
+    "main.38029cf8.js.map": "/contentstack-nativo-clone/static/js/main.38029cf8.js.map",
     "787.fa2e8297.chunk.js.map": "/contentstack-nativo-clone/static/js/787.fa2e8297.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d566aad5.css",
-    "static/js/main.58b4e48f.js"
+    "static/js/main.38029cf8.js"
   ]
 }
