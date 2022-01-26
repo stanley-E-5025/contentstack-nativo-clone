@@ -8,7 +8,7 @@ function Header() {
     <div className="header">
       <nav className="navbar navbar-expand-lg ">
         <div className="container-fluid">
-          <a className="custom-logo-container  " href="#">
+          <a className="custom-logo-container">
             <Logo />
           </a>
 
