@@ -8,7 +8,7 @@ function Header() {
     <div className="header">
       <nav className="navbar navbar-expand-lg ">
         <div className="container-fluid">
-          <a className="navbar-brand logo-container " href="#">
+          <a className="custom-logo-container  " href="#">
             <Logo />
           </a>
 
@@ -24,13 +24,16 @@ function Header() {
             <i className="fas fa-bars"></i>
           </button>
 
-          <div className="collapse navbar-collapse" id="navbarSupportedContent">
+          <div
+            className="  collapse navbar-collapse"
+            id="navbarSupportedContent"
+          >
             <ul className="navbar-nav me-auto mb-2 mb-lg-0 options-container ">
-              <div className=" option">About</div>
-              <div className=" option">Services</div>
-              <div className=" option">Insights</div>
-              <div className=" option">Careers</div>
-              <div className=" option">Contacts</div>
+              <div className="option">About</div>
+              <div className="option">Services</div>
+              <div className="option">Insights</div>
+              <div className="option">Careers</div>
+              <div className="option">Contacts</div>
             </ul>
           </div>
         </div>
