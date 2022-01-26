@@ -5,10 +5,7 @@ export default function AppRouter() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route
-          path="https://stanley-e-5025.github.io/contentstack-nativo-clone/"
-          element={<Home />}
-        />
+        <Route path="/contentstack-nativo-clone" element={<Home />} />
       </Routes>
     </BrowserRouter>
   );
